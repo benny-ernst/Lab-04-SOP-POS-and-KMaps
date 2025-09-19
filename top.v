@@ -9,6 +9,7 @@ module top(
         .C(sw[1]),
         .D(sw[0]),
         .Y(led[0])
+        
     );
 
     minterm minterm_inst(

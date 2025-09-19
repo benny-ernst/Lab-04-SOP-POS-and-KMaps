@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/Lab-04-SOP-POS-and-KMaps.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/maxterm.v,1758298600,verilog,,C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/minterm.v,,maxterm,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/minterm.v,1758298575,verilog,,C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/naive.v,,minterm,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/naive.v,1758298752,verilog,,C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/top.v,,naive,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/test.v,1758293676,verilog,,,,test,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/top.v,1758297031,verilog,,C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/test.v,,top,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
