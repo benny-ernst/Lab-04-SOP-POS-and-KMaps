@@ -1,5 +1,2 @@
 Time resolution is 1 ps
-Minterm output does not match
-$finish called at time : 40 ns : File "C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/test.v" Line 22
-Maxterm output does not match
-$finish called at time : 40 ns : File "C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/test.v" Line 26
+$finish called at time : 320 ns : File "C:/Users/be/Documents/GitHub/Lab-04-SOP-POS-and-KMaps/test.v" Line 29
